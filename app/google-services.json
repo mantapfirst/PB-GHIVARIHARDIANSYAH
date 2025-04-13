@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128385061357",
+    "project_id": "aplikasiku-48cc8",
+    "storage_bucket": "aplikasiku-48cc8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128385061357:android:8f0934d2f0fb4c075857e4",
+        "android_client_info": {
+          "package_name": "com.example.aplikasiku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjv_l3PttOANi5EWYrR4AdbNJ5z4aLF_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128385061357:android:0da84bab7e0539a65857e4",
+        "android_client_info": {
+          "package_name": "com.example.mybini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjv_l3PttOANi5EWYrR4AdbNJ5z4aLF_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
